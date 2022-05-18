@@ -42,7 +42,7 @@ See the milestones and the prizes associated with them below. We will record you
 ## Project Details
 
 ### About the Project
-This project is a leaderboard for the students of Jalpaiguri Government Engineering College participating in the GoogleCloudReady Facilitator program.
+This project is a leaderboard for the students of Sri Manakula Vinayagar Engineering College participating in the GoogleCloudReady Facilitator program.
 
 ### Built With
 
@@ -91,4 +91,4 @@ The application should be available at `http://localhost:3000`.
 1. Create a Vercel account at https://vercel.com/signup and download [the CLI](https://vercel.com/download)
 2. Run `vercel` at the project root
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwasimreja%2Fgcr-leaderboard)
+
